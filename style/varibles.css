@@ -1,0 +1,22 @@
+:root{
+    /*шрифты*/
+--main-font-family: "Noto Sans";
+     /*размер шрифта*/
+--main-font-size:  1.13rem;
+--cover-text-font-size: 1.1875rem;
+--button--font-size: 0.875rem;
+--title-card-font-size:1.6875rem;
+--text-font-size:1.1875rem;
+--text-article-font-size: 1.25rem;
+--footer-font-size: 0.8125rem;
+      /*цвета*/
+--button-background-color:  #ffffff;
+--color: #000000;
+    /*граница кнопок*/
+--border: 1px solid #000000;
+--fill:#000;
+--background-color:#ffffff;
+--background-color-header: #f2f2f2;
+--background-color-card_type:  #f2f2f2;
+--color-wrapper__text_cover: #c7c7c7;
+}

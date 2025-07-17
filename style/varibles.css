@@ -1,14 +1,6 @@
 :root{
     /*шрифты*/
 --main-font-family: "Noto Sans";
-     /*размер шрифта*/
---main-font-size:  1.13rem;
---cover-text-font-size: 1.1875rem;
---button--font-size: 0.875rem;
---title-card-font-size:1.6875rem;
---text-font-size:1.1875rem;
---text-article-font-size: 1.25rem;
---footer-font-size: 0.8125rem;
       /*цвета*/
 --button-background-color:  #ffffff;
 --color: #000000;

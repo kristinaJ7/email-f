@@ -17,3 +17,7 @@
 
 ## Примечания
 Проект создан исключительно для  обучения.
+
+git@github.com:kristinaJ7/email-f.git
+https://github.com/kristinaJ7/email-f.git
+https://kristinaj7.github.io/email-f/
